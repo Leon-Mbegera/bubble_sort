@@ -54,12 +54,12 @@ in the terminal
 
 ## Authors
 
-👤 **Shoira**
+👤 **Shoira Toshpulatova**
 
 - GitHub: [@githubhandle](https://github.com/shoirata)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shoira-tashpulatova-bab4a7122/)
 
-![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true&theme=dark&show_icons=true)
+![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true)
 
 
 👤 **Leon**
@@ -70,7 +70,7 @@ in the terminal
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Mbegera&count_private=true&theme=dark&show_icons=true)
 
 
+## Acknowledgments
 
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
+- Thanks to my coding partner and the team
+- Inspiration
