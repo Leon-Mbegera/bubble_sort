@@ -15,7 +15,7 @@
 
 Install Ruby.
 
-## Instructions
+## Instructions for buble_sort.rb
 
 - Bubble Sort [buble_sort.rb] — buble_sort method accepts one argument(arr of numbers)
   
@@ -30,6 +30,10 @@ Install Ruby.
   ```terminal
   foo:$ ruby bubble_sort.rb
   ```
+
+## Instructions for buble_sort_by.rb
+
+
 
 
 ## Getting Started
