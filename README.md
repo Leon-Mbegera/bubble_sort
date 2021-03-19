@@ -28,9 +28,10 @@ Install Ruby.
   
   and run from the terminal
   
-  ```terminal
- :$ ruby bubble_sort.rb
   ```
+   ruby bubble_sort.rb
+ 
+
 
 ## Instructions for buble_sort_by.rb
 
@@ -48,17 +49,16 @@ in the  bubble_sort_by.rb:
   ```
 on the terminal
 
- ```
  :$ ruby bubble_sort.rb
 
 # To get a local copy follow the steps below:
 
-Go to https://github.com/Leon-Mbegera/bubble_sort
-Click on the code button and copy the HTTPS/ SSH URL.
-On the terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
-Run git checkout -b your-branch-name. Make your contributions
-Push your branch up to your forked repository
-Open a Pull Request if you want to merge branches with a detailed description of the development branch of the original project for a review
+#### 1. Go to https://github.com/Leon-Mbegera/bubble_sort
+#### 2. Click on the code button and copy the HTTPS/ SSH URL.
+#### 3. On the terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
+#### 4. Run git checkout -b your-branch-name. Make your contributions
+#### 5. Push your branch up to your forked repository
+#### 6. Open a Pull Request if you want to merge branches with a detailed description of the development branch of the original project for a review
 
 
 ## Authors
