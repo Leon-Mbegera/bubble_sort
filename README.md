@@ -50,6 +50,14 @@ in the terminal
  ```
  :$ ruby bubble_sort.rb
 
+# To get a local copy follow the steps below:
+
+Go to https://github.com/Leon-Mbegera/bubble_sort
+Click on the code button and copy the HTTPS/ SSH URL.
+On terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
+Run git checkout -b your-branch-name. Make your contributions
+Push your branch up to your forked repository
+Open a Pull Request if you want to merge branches with a detailed description of the development branch of the original project for a review
 
 
 ## Authors
