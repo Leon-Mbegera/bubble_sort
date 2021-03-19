@@ -20,13 +20,13 @@ Install Ruby.
 
 - Bubble Sort assignment 1 part 1 [bubble_sort.rb] — buble_sort method accepts one argument(arr of numbers)
   
-  To test code you can provide following line at the end of the code inside the buble_sort.rb
+  To test code you can provide the following line at the end of the code inside the buble_sort.rb
 
   ```
   puts bubble_sort([., .,.,.,.,])
   ```
   
-  and run from terminal
+  and run from the terminal
   
   ```terminal
  :$ ruby bubble_sort.rb
@@ -46,7 +46,7 @@ in the  bubble_sort_by.rb:
   > end
   => ["hi", "hey", "hello"]
   ```
-in the terminal
+on the terminal
 
  ```
  :$ ruby bubble_sort.rb
@@ -55,7 +55,7 @@ in the terminal
 
 Go to https://github.com/Leon-Mbegera/bubble_sort
 Click on the code button and copy the HTTPS/ SSH URL.
-On terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
+On the terminal, type git clone command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
 Run git checkout -b your-branch-name. Make your contributions
 Push your branch up to your forked repository
 Open a Pull Request if you want to merge branches with a detailed description of the development branch of the original project for a review
