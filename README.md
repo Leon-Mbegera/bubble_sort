@@ -49,7 +49,7 @@ in the terminal
 
  ```
  :$ ruby bubble_sort.rb
-  ``` 
+
 
 
 ## Authors
