@@ -43,14 +43,14 @@ in the  bubble_sort_by.rb:
 
   ```
   > bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  >   left.length - right.length
+  > left.length - right.length
   > end
   => ["hi", "hey", "hello"]
   ```
 on the terminal
   ```
- :$ ruby bubble_sort.rb
- ```
+  ruby bubble_sort.rb
+  ```
 # To get a local copy follow the steps below:
 
 #### 1. Go to https://github.com/Leon-Mbegera/bubble_sort
@@ -77,7 +77,6 @@ on the terminal
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leon-mbegera-053991174/)
 
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Mbegera&count_private=true&theme=dark&show_icons=true)
-
 
 ## Acknowledgments
 

@@ -13,5 +13,4 @@ def bubble_sort_by(arr)
   arr
 end
 
-
 puts sorted_array
