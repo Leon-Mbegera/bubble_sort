@@ -1,5 +1,4 @@
 # defining bubble_sort method
-
 def bubble_sort(arr)
   n = arr.length
   loop do
@@ -16,4 +15,10 @@ def bubble_sort(arr)
 return arr     
 end
 
-print bubble_sort([9, 2, 8, 3, 4])
+
+
+
+
+
+
+
