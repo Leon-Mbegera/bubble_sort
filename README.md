@@ -30,14 +30,14 @@ Install Ruby.
   
   ```
    ruby bubble_sort.rb
- 
+  ```
 
 
 ## Instructions for buble_sort_by.rb
 
-- Bubble sort assignment 1 part 2[bubble_sort_by.rb] uses yield definition inside the method
+- Bubble sort assignment 1 part 2 [bubble_sort_by.rb] uses yield definition inside the method
 
-to test code you should:  
+To test code you can provide the following line at the end of the code inside the buble_sort_by.rb
 
 in the  bubble_sort_by.rb: 
 
@@ -48,9 +48,9 @@ in the  bubble_sort_by.rb:
   => ["hi", "hey", "hello"]
   ```
 on the terminal
-
+  ```
  :$ ruby bubble_sort.rb
-
+ ```
 # To get a local copy follow the steps below:
 
 #### 1. Go to https://github.com/Leon-Mbegera/bubble_sort
@@ -68,7 +68,7 @@ on the terminal
 - GitHub: [@githubhandle](https://github.com/shoirata)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shoira-tashpulatova-bab4a7122/)
 
-![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=truetheme=dark&show_icons=true)
+![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true&theme=dark&show_icons=true)
 
 
 👤 **Leon**
