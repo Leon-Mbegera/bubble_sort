@@ -57,10 +57,9 @@ in the terminal
 👤 **Shoira**
 
 - GitHub: [@githubhandle](https://github.com/shoirata)
-- Twitter: [@twitterhandle](https://twitter.com/Shoira03)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shoira-tashpulatova-bab4a7122/)
 
-![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true)
+![Shoira's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoirata&count_private=true&theme=dark&show_icons=true)
 
 
 👤 **Leon**
@@ -68,8 +67,7 @@ in the terminal
 - GitHub: [@githubhandle](https://github.com/Leon-Mbegera)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leon-mbegera-053991174/)
 
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Mbegera&count_private=true)
-
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Mbegera&count_private=true&theme=dark&show_icons=true)
 
 
 
