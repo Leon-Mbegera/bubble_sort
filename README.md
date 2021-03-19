@@ -6,6 +6,7 @@
 
 [Collaborative project]
 >In this project, we will implement the bubble sort algorithm. 
+Bubble sort is a basic algorithm for arranging a string of numbers or other elements in the correct order. The method works by examining each set of adjacent elements in the string, from left to right, switching their positions if they are out of order.
 
 ## Built With
 

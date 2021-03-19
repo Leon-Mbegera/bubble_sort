@@ -1,4 +1,3 @@
-# defining bubble_sort method
 def bubble_sort(arr)
   n = arr.length
   loop do
@@ -11,7 +10,6 @@ def bubble_sort(arr)
      end
      break if not swapped
   end
-   # returns array
 return arr     
 end
 

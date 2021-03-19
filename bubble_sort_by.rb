@@ -1,4 +1,3 @@
-# defining bubble_sort method
 def bubble_sort_by(arr)
   n = arr.length
   loop do
@@ -13,7 +12,6 @@ def bubble_sort_by(arr)
   end
   return arr  
 end   
-
 sorted_array = bubble_sort_by(["hey", "hello", "hi"]) do |left, right|
   left.length - right.length
 end
