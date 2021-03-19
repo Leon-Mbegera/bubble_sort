@@ -61,6 +61,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Leon**
 
+- GitHub: [@githubhandle](https://github.com/Leon-Mbegera)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leon-mbegera-053991174/)
+
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Mbegera&count_private=true)
+
+
+
 
 ## 📝 License
 
