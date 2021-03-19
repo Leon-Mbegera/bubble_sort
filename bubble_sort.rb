@@ -1,26 +1,19 @@
 # defining bubble_sort method
 
 def bubble_sort(arr)
-  #[9, 2, 8]
-  #[2, 9, 8]
-  #[2, 8, 9]
   n = arr.length
   loop do
   swapped =false
-
-     arr.each do |i|
-         
+     (n-1).times do |i|
           if arr[i] > arr[i+1]
-          #arr[i], arr[i+1] = arr[i+1], arr[i]
-          temp =  arr[i] 
-          arr[i] = arr[i+1]
-          arr[i+1]= temp
+          arr[i], arr[i+1] = arr[i+1], arr[i]
+             swapped = true
           end
      end
      break if not swapped
-
   end
-return arr          # returns array
+   # returns array
+return arr     
 end
 
-puts bubble_sort([9, 2, 8])
+print bubble_sort([9, 2, 8, 3, 4])
